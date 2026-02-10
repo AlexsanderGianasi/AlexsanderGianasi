@@ -10,10 +10,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento Front-End.  
+Estudante de Engenharia de Software com foco em Desenvolvimento Front-End.
 Tenho experiência prática no desenvolvimento de site institucional para a empresa **HS Ímãs**, sendo responsável por todo o processo: estruturação do projeto, organização do código, estilização, responsividade e publicação.
 
-Atualmente estou aprofundando meus conhecimentos em **JavaScript** para evoluir na construção de interfaces mais dinâmicas e interativas.
+Atualmente aprofundando conhecimentos em JavaScript para desenvolver interfaces mais dinâmicas e interativas.
 
 Busco oportunidade de estágio para aplicar meus conhecimentos em ambiente profissional e continuar evoluindo tecnicamente.
 
@@ -43,7 +43,6 @@ Responsável pela criação da estrutura do projeto, organização semântica do
 
 - <a href="https://www.linkedin.com/in/alexsandergianasi/" target="_blank">Linkedin</a>
 - <a href="alexsandergianase@gmail.com" target="_blank">Email</a>
-- <a href="https://wa.me/5511949355910" target="_blank">Whatsapp</a>
 
 ---
 
@@ -80,10 +79,10 @@ Responsável pela criação da estrutura do projeto, organização semântica do
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
-<p>
+ <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -99,4 +98,4 @@ Responsável pela criação da estrutura do projeto, organização semântica do
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandergianasi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
