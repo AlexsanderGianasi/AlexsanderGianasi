@@ -35,15 +35,15 @@ Busco oportunidade de estágio para aplicar meus conhecimentos em ambiente profi
 Desenvolvimento completo de site institucional utilizando HTML, CSS e JavaScript.  
 Responsável pela criação da estrutura do projeto, organização semântica do código, estilização com foco em responsividade e experiência do usuário.
 
-🔗 [Ver repositório](https://alexsandergianasi.github.io/HsImas/)
+🔗 <a href="https://alexsandergianasi.github.io/HsImas/" target="_blank">[Ver repositório]</a>
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/alexsandergianasi/
-- Email: alexsandergianase@gmail.com
-- Whatsapp: https://wa.me/5511949355910
+- <a href="https://www.linkedin.com/in/alexsandergianasi/" target="_blank">Linkedin</a>
+- <a href="alexsandergianase@gmail.com" target="_blank">Email</a>
+- <a href="https://wa.me/5511949355910" target="_blank">Whatsapp</a>
 
 ---
 
