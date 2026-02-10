@@ -46,7 +46,7 @@ Responsável pela criação da estrutura do projeto, organização semântica do
 
 ---
 
-⭐ Sempre buscando evoluir como desenvolvedor e construir soluções cada vez melhores.
+⭐ Comprometido com evolução constante e construção de soluções cada vez melhores.
 
 ---
 
