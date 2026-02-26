@@ -42,7 +42,7 @@ Responsável pela criação da estrutura do projeto, organização semântica do
 ## 📫 Contato
 
 - <a href="https://www.linkedin.com/in/alexsandergianasi/" target="_blank">Linkedin</a>
-- <a href="alexsandergianase@gmail.com" target="_blank">Email</a>
+- alexsandergianase@gmail.com
 
 ---
 
