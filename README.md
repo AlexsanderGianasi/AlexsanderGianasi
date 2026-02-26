@@ -35,7 +35,7 @@ Busco oportunidade de estágio para aplicar meus conhecimentos em ambiente profi
 Desenvolvimento completo de site institucional utilizando HTML, CSS e JavaScript.  
 Responsável pela criação da estrutura do projeto, organização semântica do código, estilização com foco em responsividade e experiência do usuário.
 
-🔗 <a href="https://alexsandergianasi.github.io/HsImas/" target="_blank">[Ver repositório]</a>
+🔗 <a href="https://hsimas.com" target="_blank">[Ver Site]</a>
 
 ---
 
